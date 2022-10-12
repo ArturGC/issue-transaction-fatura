@@ -1,0 +1,23 @@
+{
+  "name": "issue-transaction-fatura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturGC/issue-transaction-fatura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturGC/issue-transaction-fatura/issues"
+  },
+  "homepage": "https://github.com/ArturGC/issue-transaction-fatura#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
